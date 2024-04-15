@@ -1,5 +1,5 @@
 <?php
-//wew
+
 	include('config/db_connect.php');
 
 	$email = $title = $ingredients = '';
